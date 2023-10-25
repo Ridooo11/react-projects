@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState } from 'react';
 import { TURNS } from "./constants.js";
 import { updateBoard } from "./logic/update.js";
 import { resetGame } from "./logic/reset.js";
